@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_prayer_times"
+        android:icon="@drawable/ic_nav_prayer"
+        android:title="مواقيت الصلاة" />
+    <item
+        android:id="@+id/nav_azkar_tasbeeh"
+        android:icon="@drawable/ic_nav_tasbeeh"
+        android:title="الأذكار والمسبحة" />
+    <item
+        android:id="@+id/nav_quran"
+        android:icon="@drawable/ic_nav_quran"
+        android:title="القرآن الكريم" />
+</menu>

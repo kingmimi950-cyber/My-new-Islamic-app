@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Islamic Brand Colors -->
+    <color name="primary_emerald">#0F4C3A</color>
+    <color name="primary_dark">#093327</color>
+    <color name="primary_light">#1D6D55</color>
+    <color name="secondary_gold">#D4AF37</color>
+    <color name="gold_soft">#FBF7E9</color>
+    <color name="accent_teal">#149174</color>
+
+    <!-- Eye-comfort Backgrounds & Surfaces -->
+    <color name="bg_screen">#F6F9F7</color>
+    <color name="card_surface">#FFFFFF</color>
+    <color name="card_stroke">#E1ECE7</color>
+    <color name="card_active_bg">#E8F5EF</color>
+
+    <!-- Typography Colors -->
+    <color name="text_primary">#142A23</color>
+    <color name="text_secondary">#58756B</color>
+    <color name="text_hint">#8DA39C</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- UI State Colors -->
+    <color name="nav_active">#0F4C3A</color>
+    <color name="nav_inactive">#759187</color>
+    <color name="badge_next_prayer">#1B6A52</color>
+    <color name="badge_text">#FFFFFF</color>
+    <color name="counter_circle_bg">#EDF7F2</color>
+    <color name="counter_stroke">#1D6D55</color>
+    <color name="reset_button_bg">#FEEFEF</color>
+    <color name="reset_button_text">#C53929</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

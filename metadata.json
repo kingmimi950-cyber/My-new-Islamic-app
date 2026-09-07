@@ -1,0 +1,7 @@
+{
+  "name": "نور الإسلام",
+  "description": "تطبيق إسلامي شامل ومريح للعين يضم مواقيت الصلاة، الأذكار والمسبحة الإلكترونية التفاعلية، وتصفح سور القرآن الكريم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
